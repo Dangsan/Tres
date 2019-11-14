@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "academiamovil-cb0c8": {
+      "hosting": {
+        "TresSesenta": [
+          "academiamovil-cb0c8"
+        ]
+      }
+    }
+  }
+}
